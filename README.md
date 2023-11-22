@@ -24,6 +24,33 @@ To install the project, follow these steps:
    ```bash
    git clone https://github.com/error-4u/cli.git
 
+2. Install dependencies
+   
+   ```bash
+   npm install
+
+3. In the root directory run 
+   
+   ```bash
+   npm build
+
+4. This will create a dist folder, To check that project is running
+    ```bash
+    node dist/index.js 
+
+5. The next step is to run
+    ```bash
+    npm install -g 
+
+The -g option tells npm to install the package globally.    
+
+6. Last but not the least run
+   ```bash
+   cd src 
+
+   ```bash
+   CustmLib -l
+
 ## Contributing
 
 If you'd like to contribute to the project, please follow these steps:

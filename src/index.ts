@@ -12,7 +12,7 @@ import figlet from "figlet";
 //add the following line
 const program = new Command();
 
-console.log(figlet.textSync("Custom Library"));
+console.log(figlet.textSync("CustmLib"));
 
 program
   .version("1.0.0")
