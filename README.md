@@ -46,10 +46,7 @@ The -g option tells npm to install the package globally.
 
 6. Last but not the least run
    ```bash
-   cd src 
-
-   ```bash
-   CustmLib -l
+   cd src && CustmLib -l
 
 ## Contributing
 
