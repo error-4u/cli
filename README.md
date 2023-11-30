@@ -1,7 +1,7 @@
 
 # CustmLib
 
- img[file:///home/vboxuser/Pictures/Screenshots/Screenshot%20from%202023-11-28%2010-41-49.png]
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
